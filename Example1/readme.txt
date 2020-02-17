@@ -1,7 +1,8 @@
+--------------------------------------------------------------------------------------------------------------------------------
 This code is part of the publication “Real-time proxy-control of re-parameterized peripheral signals using close-loop interface” 
 at JOVE (link:…). Specifically, it is the python interface described in example 1, section “The real-time analyses of data and 
 monitoring of the human system”.
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 To execute this code, you should employ a wearable device that collects electrocardiography (ECG) signal and allows real-time 
 streaming. In our example, we use the Enobio 32 EEG system with the heartrate extension. Stream the data to the labstreaminglayer
