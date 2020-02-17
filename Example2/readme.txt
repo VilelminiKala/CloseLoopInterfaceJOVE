@@ -18,7 +18,7 @@ Figure 1: Sequence of rigid bodies of the data used in the specific example code
 of the rigids the participant is facing towards us. The right side of the picture demonstrates the left 
 hand and leg and the left side of the picture demonstrates the right hand and leg.
 
--- Real-time streaming
+--Real-time streaming--
 To use this code on a real time streaming utilizing LabStreamingLayer (LSL, https://github.com/sccn/labstreaminglayer) add the 
 following code on your script adapted to the equipment you are using.
 
